@@ -43,3 +43,4 @@ data/
 .vscode
 output/
 .python-version
+*.ipynb
